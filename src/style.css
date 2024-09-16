@@ -1,3 +1,46 @@
 body {
-  background: lavenderblush;
+  background: whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  line-height: 1.5;
+}
+
+.container {
+  margin: 120px auto;
+  max-width: 600px;
+}
+
+form {
+  padding: 25px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.topic {
+  padding: 10px;
+  width: 80%;
+}
+
+.button {
+  padding: 10px 15px;
+  margin-left: 4px;
+}
+
+.poem {
+  margin-top: 10px;
+  padding: 25px;
+  background-color: white;
+  border: 2px solid
+    linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+  border-radius: 10px;
+  text-align: center;
+}
+
+footer {
+  margin-top: 10px;
+  padding: 25px;
+  background-color: white;
+  border-radius: 10px;
 }
