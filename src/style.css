@@ -2,6 +2,18 @@ body {
   background: whitesmoke;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img {
+  width: 150px;
+  height: 70px;
+  border: 1px solid #385170;
+}
+
 h1 {
   text-align: center;
   line-height: 1.5;
